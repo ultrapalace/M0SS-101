@@ -1,4 +1,5 @@
-# M0SS-101 BUILD GUIDE \- updated Sept 26, 2025
+# M0SS-101 BUILD GUIDE
+( last updated Sept 26, 2025 )
 
 ## Here are the contents of the kit
 
@@ -18,6 +19,7 @@
 | 2       | M2 x 4mm screw, T8 |
 | 5       | 6-32 x 3/8" screw, Hex |
 | 4       | Silicon Feet (not pictured) |
+| 1       | Aluminum enclosure (not pictured) |
 
 <br/>
 
@@ -104,7 +106,7 @@
 
 <br/>
 
-## STEP 7: Connect the FCCs to the main board.
+## STEP 7: Connect the FFCs to the main board.
 
 - Use the same procedure in step 5 to install both FFCs to their respective connectors on the main board.
 
@@ -129,7 +131,7 @@
 
 <br/>
 
-## STEP 10: Test your M0SS-101
+## STEP 9: Test your M0SS-101
 
 - While holding the “ALT” and “VOL” buttons, apply power to the M0SS-101.  
 - Confirm that all the LEDs are glowing yellow.  
@@ -139,6 +141,7 @@
 - Connect a MIDI device to the ⅛” MIDI input jack (the one closer to the back), send some MIDI, and confirm that the LEDs flash blue.  
 - Turn the encoder clockwise, and confirm that the LEDs flash green.  
 - Turn the encoder counter-clockwise, and confirm that the LEDs flash blue.
+
 
 
 
