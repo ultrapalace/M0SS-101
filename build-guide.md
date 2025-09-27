@@ -4,6 +4,30 @@
 
 <img src="images/image12.jpg" width="600">
 
+| Quantity | Item |
+|---------|------------------------------------------------|
+| 3       | PCBs (front panel, LED board, main board) |
+| 1       | 30p Flat Flex cable |
+| 1       | 12p Flat Flex cable |
+| 1       | Encoder + nut |
+| 1       | Encoder Knob |
+| 1       | DC jack |
+| 1       | 1/4" Audio jack + washer + nut |
+| 1       | USB A jack |
+| 1       | 7mm Standoff |
+| 2       | M2 x 4mm screw, T8 |
+| 5       | 6-32 x 3/8" screw, Hex |
+| 4       | Silicon Feet (not pictured) |
+
+<br/>
+
+## You will need
+- Pliers
+- Soldering Iron
+- Solder
+- A T8 torx bit and driver
+- A 2mm Allen Wrench or M2 bit and driver
+
 <br/>
 
 ## STEP 1: Remove the edge rails from all PCBs
@@ -115,5 +139,6 @@
 - Connect a MIDI device to the ⅛” MIDI input jack (the one closer to the back), send some MIDI, and confirm that the LEDs flash blue.  
 - Turn the encoder clockwise, and confirm that the LEDs flash green.  
 - Turn the encoder counter-clockwise, and confirm that the LEDs flash blue.
+
 
 
