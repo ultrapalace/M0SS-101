@@ -1,4 +1,4 @@
-# M0SS-101 BUILD GUIDE \- updated Sept 14, 2025
+# M0SS-101 BUILD GUIDE \- updated Sept 26, 2025
 
 ## Here are the contents of the kit
 
@@ -115,4 +115,5 @@
 - Connect a MIDI device to the ⅛” MIDI input jack (the one closer to the back), send some MIDI, and confirm that the LEDs flash blue.  
 - Turn the encoder clockwise, and confirm that the LEDs flash green.  
 - Turn the encoder counter-clockwise, and confirm that the LEDs flash blue.
+
 
