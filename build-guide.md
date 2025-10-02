@@ -118,7 +118,6 @@
 
 ## STEP 8: Install the enclosure
 
-- Disconnect the USB cable and the 9v DC PSU.  
 - Place the PCB assembly into the enclosure, inserting the jacks first.  
 - Install the 4 large black screws.  
 - Install the plastic washer and nut onto the audio jack.  
@@ -141,6 +140,7 @@
 - Connect a MIDI device to the ⅛” MIDI input jack (the one closer to the back), send some MIDI, and confirm that the LEDs flash blue.  
 - Turn the encoder clockwise, and confirm that the LEDs flash green.  
 - Turn the encoder counter-clockwise, and confirm that the LEDs flash blue.
+
 
 
 
