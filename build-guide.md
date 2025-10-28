@@ -29,10 +29,18 @@
 - Solder
 - A T8 torx bit and driver
 - A 2mm Allen Wrench or M2 bit and driver
+- Super Glue (optional)
 
 <br/>
 
-## STEP 1: Remove the edge rails from all PCBs
+## STEP 1: Add solder to the 1/8" jacks
+- These parts were sometimes not soldered well at the manufacturer. Add solder to the 6 tabs (3 tabs on each 1/8" jack) to reinforce them. During this process be VERY cautious to not melt the plastic parts of the jack, nor any of the surrounding parts, like LEDs. You can optionally add one drop of super glue to add strength, place it at the base of the part near the outside edge of the board, but be very careful not to add more then 1 drop, or you risk glueing the part shut!
+
+<img src="images/image21.jpg" width="600">
+
+<br/>
+
+## STEP 2: Remove the edge rails from all PCBs
 
 - Using pliers, carefully snap off the edge rails. There are rails on the left and right sides of each PCB, 6 edges in total to be removed.
 
@@ -40,7 +48,7 @@
 
 <br/>
 
-## STEP 2: Place and solder the encoder
+## STEP 3: Place and solder the encoder
 
 - Confirm you are placing the encoder on the correct side, by checking for the white outlined shape of the part, drawn on the PCB. The encoder goes on the back side.  
 - Slightly bend the lugs of the encoder inward, using pliers, or by gently pressing them into the table.  
@@ -52,7 +60,7 @@
 
 <br/>
 
-## STEP 3: Place and solder the DC jack, audio jack and USB jack
+## STEP 4: Place and solder the DC jack, audio jack and USB jack
 
 - These parts are placed on the top side of the main PCB, look for the footprint outlines to confirm, these are installed on the opposite side as the encoder.  
 - Start with the DC jack, and solder one pin, then adjust the position of the jack to be as square and straight as possible, using the white footprint outline, before soldering the remaining 2 pins.  
@@ -62,7 +70,7 @@
 
 <br/>
 
-## STEP 4: Install the standoff
+## STEP 5: Install the standoff
 
 - The standoff goes on the same side as the encoder, the back side of the main PCB.  
 - Use a small screw, and be careful to not over tighten it. ⅛ of a turn past hand-tight is great.
@@ -71,7 +79,7 @@
 
 <br/>
 
-## STEP 5: Install the Flat Flex Cables (FFCs)
+## STEP 6: Install the Flat Flex Cables (FFCs)
 
 - Install the large FFC onto the back side of the front panel board. The large FFC connector is a flip-lock type. Using a small tool or a fingernail, lift the black lock up and back to fully open the connector.   
 - Insert the large FFC with the blue stripe up. Ensure it is fully seated and square, then close the lock.
@@ -88,7 +96,7 @@
 
 <br/>
 
-## STEP 6: Assemble the stack-up.
+## STEP 7: Assemble the stack-up.
 
 - Thread the large FFC through the large cutout in the LED board, and bring the 2 boards together back-to-back.
 
@@ -106,7 +114,7 @@
 
 <br/>
 
-## STEP 7: Connect the FFCs to the main board.
+## STEP 8: Connect the FFCs to the main board.
 
 - Use the same procedure in step 5 to install both FFCs to their respective connectors on the main board.
 
@@ -116,7 +124,7 @@
 
 <br/>
 
-## STEP 8: Install the enclosure
+## STEP 9: Install the enclosure
 
 - Place the PCB assembly into the enclosure, inserting the jacks first.  
 - Install the 4 large black screws.  
@@ -130,7 +138,7 @@
 
 <br/>
 
-## STEP 9: Test your M0SS-101
+## STEP 10 (optional): Test your M0SS-101
 
 - While holding the “ALT” and “VOL” buttons, apply power to the M0SS-101.  
 - Confirm that all the LEDs are glowing yellow.  
@@ -140,6 +148,7 @@
 - Connect a MIDI device to the ⅛” MIDI input jack (the one closer to the back), send some MIDI, and confirm that the LEDs flash blue.  
 - Turn the encoder clockwise, and confirm that the LEDs flash green.  
 - Turn the encoder counter-clockwise, and confirm that the LEDs flash blue.
+
 
 
 
