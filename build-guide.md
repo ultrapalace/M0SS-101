@@ -149,6 +149,19 @@
 - Turn the encoder clockwise, and confirm that the LEDs flash green.  
 - Turn the encoder counter-clockwise, and confirm that the LEDs flash blue.
 
+<br/>
+
+## STEP 11: Construct the manual
+
+- I found this cute diagram online, use it to fold your manual into a tiny book.
+
+<img src="images/image22.jpg" width="600">
+
+- If you have done it right, it should look like this
+
+<img src="images/image23.jpg" width="600">
+
+
 
 
 
