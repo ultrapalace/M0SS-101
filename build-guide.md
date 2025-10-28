@@ -1,5 +1,5 @@
 # M0SS-101 BUILD GUIDE
-( last updated Sept 26, 2025 )
+( last updated October 28, 2025 )
 
 ## Here are the contents of the kit
 
@@ -160,6 +160,7 @@
 - If you have done it right, it should look like this
 
 <img src="images/image23.jpg" width="600">
+
 
 
 
