@@ -28,7 +28,7 @@
 - Soldering Iron
 - Solder
 - A T8 torx bit and driver
-- A 2mm Allen Wrench or M2 bit and driver
+- A 2mm Allen Wrench or 2mm hex bit and driver
 - Super Glue (optional)
 
 <br/>
@@ -73,7 +73,7 @@
 ## STEP 5: Install the standoff
 
 - The standoff goes on the same side as the encoder, the back side of the main PCB.  
-- Use a small screw, and be careful to not over tighten it. ⅛ of a turn past hand-tight is great.
+- Use a M2 x 4mm screw, and be careful to not over tighten it. ⅛ of a turn past hand-tight is great.
 
 <img src="images/image8.jpg" width="600">
 
@@ -108,7 +108,7 @@
 <img src="images/image15.jpg" width="600">
 <img src="images/image13.jpg" width="600">
 
-- On the front panel board, install the encoder nut, and the small screw to the standoff. When tightening the encoder nut, exercise caution to not scratch the panel, and to not damage any adjacent buttons. Using a plastic socket is ideal.
+- On the front panel board, install the encoder nut, and an M2 x 4mm screw to the standoff. When tightening the encoder nut, exercise caution to not scratch the panel, and to not damage any adjacent buttons. Using a plastic socket is ideal.
 
 <img src="images/image17.jpg" width="600">
 
@@ -127,7 +127,7 @@
 ## STEP 9: Install the enclosure
 
 - Place the PCB assembly into the enclosure, inserting the jacks first.  
-- Install the 4 large black screws.  
+- Install the 4 large black 6-32 x 3/8" screws.  
 - Install the plastic washer and nut onto the audio jack.  
 - Install the knob onto the encoder, looking for the irregularity inside the knob, which mates with the flat side of the encoder shaft.  
 - Optionally, affix the 4 adhesive feet, on the bottom of the enclosure, at each corner.
@@ -160,6 +160,7 @@
 - If you have done it right, it should look like this
 
 <img src="images/image23.jpg" width="600">
+
 
 
 
