@@ -1,5 +1,8 @@
 # M0SS-101 Manual
 
+
+<img src="images/face_diagram_sq.jpg" width="600">
+
 M0SS-101 is a monophonic virtual analog synth, programmed in the Faust DSP language, on the BL616 microcontroller, which includes:
 
 - 2 oscillators (OSC), with stackable square and sawtooth waveforms, each with octave (OCT) and pulse width (PW) control. Oscillator 2 can be detuned (DTN).
