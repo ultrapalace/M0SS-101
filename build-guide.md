@@ -138,6 +138,15 @@
 
 <br/>
 
+Here some details on the I/O:
+- Power input is 9v DC, center negative. M0SS-101 draws up to 800mA with a USB Device connected.
+- MIDI jack 1 (closest to the top) - MIDI input, Type-A.
+- MIDI jack 2 (closest to the bottom) - MIDI thru (soft-thru), Type-A.
+- Audio output - 1/4" Unbalanced line level. This is actually a TRS jack but the ring is unconnected.
+- USB - USB-A Host, it is safe to draw up to 500mA (USB Spec). It should work with any class compliant MIDI Device, but will not work with another USB Host (like a computer). 
+
+<br/>
+
 ## STEP 10 (optional): Test your M0SS-101
 
 - While holding the “ALT” and “VOL” buttons, apply power to the M0SS-101.  
@@ -160,6 +169,7 @@
 - If you have done it right, it should look like this
 
 <img src="images/image23.jpg" width="600">
+
 
 
 
