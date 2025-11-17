@@ -1,5 +1,5 @@
 # M0SS-101 BUILD GUIDE
-( last updated October 28, 2025 )
+( last updated November 17, 2025 )
 
 ## Here are the contents of the kit
 
@@ -147,7 +147,17 @@ Here some details on the I/O:
 
 <br/>
 
-## STEP 10 (optional): Test your M0SS-101
+## STEP 10: First boot
+
+- Apply power to the M0SS-101.
+- Some lights should come on.
+- Pressing the encoder should produce a 110hz (A2) square wave, and trigger some more lights.
+- Remove power.
+- Due to an initialization bug, make sure you do NOT initiate the test sequence (STEP 11) the very first time you power M0SS-101 on. Power it on at least once normally, before initiating Test Mode. This just triggers the processor to correctly initialize the presets in flash memory. If you do miss this step, and experience problems, simply initiate a factory reset to fix, instructions on how to do that are in the User Manual.
+
+<br/>
+
+## STEP 11 (optional): Test your M0SS-101
 
 - While holding the “ALT” and “VOL” buttons, apply power to the M0SS-101.  
 - Confirm that all the LEDs are glowing yellow.  
@@ -160,7 +170,7 @@ Here some details on the I/O:
 
 <br/>
 
-## STEP 11: Construct the manual
+## STEP 12: Construct the manual
 
 - I found this cute diagram online, use it to fold your manual into a tiny book.
 
@@ -169,6 +179,7 @@ Here some details on the I/O:
 - If you have done it right, it should look like this
 
 <img src="images/image23.jpg" width="600">
+
 
 
 
