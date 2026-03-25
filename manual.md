@@ -78,6 +78,7 @@ Preset 17 comes pre-saved with some default settings. This is the preset that wi
 - **ALT + ENV.VCA** = ENV inversion mode (de)activate
 - **ALT + LFO.ENV + click knob** = Panic/Reset
 - **ALT + LFO.ENV + OSC-1 WAV + OSC-2 WAV + click knob** = Full Factory Reset
+- **ALT + LFO.ENV + OSC-2 WAV + click knob** = Remove learned CCs for preset (added in v1.1)
 
 ---
 
