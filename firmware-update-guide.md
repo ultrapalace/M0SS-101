@@ -1,5 +1,7 @@
 # M0SS-101 Firmware Update Guide
 
+NOTE: Updating the Firmware will usually result in the loss of your Presets
+
 ## STEP 1: Download the firmware image to your computer.
 - The firmware Images are located in the `firmware` directory of this repository.
 - Download it to a good spot on your computer.
