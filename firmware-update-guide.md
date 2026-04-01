@@ -16,6 +16,19 @@ NOTE: Updating the Firmware will usually result in the loss of your Presets
 <img src="images/image25.png" width="200">
 - You want BL616/618
 
+> NOTE ON MACOS:
+> You will need to manually give this application permission.  
+> - Step 1: Open Terminal
+> - - Press Command (⌘) + Space
+> - - Type: Terminal
+> - - Press Enter
+> - Step 2: Find the program (it is probably in /Downloads), enter these commands into terminal
+> - - `cd ~/Downloads`
+> - - `cd BouffaloLabDevCube-v1.9.0`
+> - - `chmod +x BLDevCube-macos`
+> - Step 2: Run the program
+> - - `./BLDevCube-macos`
+
 ## STEP 4: Connect the M0SS-101
 - Remove all the jacks from the M0SS-101
 - Remove the 4 screws
