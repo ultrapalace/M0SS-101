@@ -1,6 +1,6 @@
 # M0SS-101 Firmware Update Guide
 
-NOTE: Updating the Firmware will usually result in the loss of your Presets
+> NOTE: Updating the Firmware will usually result in the loss of your Presets
 
 ## STEP 1: Download the firmware image to your computer.
 - The firmware Images are located in the `firmware` directory of this repository.
@@ -15,6 +15,8 @@ NOTE: Updating the Firmware will usually result in the loss of your Presets
 - you should see this screen
 <img src="images/image25.png" width="200">
 - You want BL616/618
+  
+<br><br>
 
 > NOTE ON MACOS:
 > You will need to manually give this application permission.  
@@ -28,6 +30,8 @@ NOTE: Updating the Firmware will usually result in the loss of your Presets
 > - - `chmod +x BLDevCube-macos`
 > - Step 2: Run the program
 > - - `./BLDevCube-macos`
+
+<br><br>
 
 ## STEP 4: Connect the M0SS-101
 - Remove all the jacks from the M0SS-101
