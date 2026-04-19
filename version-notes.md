@@ -11,3 +11,7 @@
 **V 1.2** - April 18th, 2026
 - Bug fix: Note-off should purge all matching notes in the stack.
 ---
+**V 1.2_dualenv** - April 18th, 2026
+- Feature: Dual Envelopes, press **ALT + A** to toggle between ENV I and ENV II.
+- NOTE: This firmware removes ADSR curves, you are stuck with linear.
+---
