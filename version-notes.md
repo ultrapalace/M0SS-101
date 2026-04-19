@@ -13,5 +13,7 @@
 ---
 **V 1.2_dualenv** - April 18th, 2026
 - Feature: Dual Envelopes, press **ALT + A** to toggle between ENV I and ENV II.
+    ENV I is green as usual, ENV II is lightblue.
+    Anything you can do with ENV I you can also do with ENV II
 - NOTE: This firmware removes ADSR curves, you are stuck with linear.
 ---
