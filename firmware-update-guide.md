@@ -32,3 +32,8 @@
 - click `Flash Firmware`
 - watch the logs appear, the last log should say `Flash complete`
 <img src="images/image28.png" width="500">
+
+## STEP 6: Reset the M0SS-101
+- disconnect power
+- disconnect USB
+- reassemble M0SS-101
