@@ -21,9 +21,17 @@
 - Feature: MIDI Channel is global. It now auto-saves, and persists resets.
 - Feature: ENV and LFO are additive on the VCA. This also means that 
 ---
-**V 1.2_dualenv** - Aug 21st, 2026
+**V 1.3_dualenv** - Aug 21st, 2026
 - Feature: MIDI Channel is global. It now auto-saves, and persists resets.
 - Feature: ENV and LFO are additive on the VCA. This also means that 
 - NOTE: This firmware removes ADSR curves, you are stuck with linear.
 - NOTE: ENV-II is in ENV-INVERSION mode in your patch, this will now pin the VCA open! This is a consequence of the additive behaviour. You may need to update your patches to turn ENV-INVERSION mode off for ENV-II.
+---
+**V 1.4** - Sept 3rd, 2026
+- Feature: Parse complex USB descriptors like Minichord.
+- Bug Fix: Presets from Dual-Env firmware should survive migrating device to/from normal firmware.
+---
+**V 1.4_dualenv** - Sept 3rd, 2026
+- Feature: Parse complex USB descriptors like Minichord.
+- Bug Fix: Presets from Dual-Env firmware should survive migrating device to/from normal firmware.
 ---
